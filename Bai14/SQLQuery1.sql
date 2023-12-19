@@ -1,0 +1,28 @@
+CREATE DATABASE BAI14
+GO
+USE BAI14
+GO
+CREATE TABLE COSO
+(
+	MaCS int not null,
+	tenCS nvarchar(50),
+	CONSTRAINT PK_CS PRIMARY KEY (MaCS)
+)
+CREATE TABLE DONVI
+(
+	MaDV int not null,
+	TenDV nvarchar(50),
+	MaCS int not null,
+	CONSTRAINT PK_DV PRIMARY KEY(MaDV),
+	CONSTRAINT FK_DV FOREIGN KEY (MaCS) REFERENCES COSO (MaCS)
+)
+CREATE TABLE GV
+(
+	MaGV int not null,
+	HoTen nvarchar(50),
+	SDT char (20),
+	GhiChu nvarchar(50) DEFAULT 'NULL',
+	MaDV int not null,
+	CONSTRAINT PK_GV PRIMARY KEY(MaGV),
+	CONSTRAINT FK_GV FOREIGN KEY (MaDV) REFERENCES DONVI (MaDV)
+)

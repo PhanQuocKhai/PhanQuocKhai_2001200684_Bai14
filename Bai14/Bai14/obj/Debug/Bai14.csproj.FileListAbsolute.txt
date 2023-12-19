@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\bin\Debug\Bai14.exe.config
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\bin\Debug\Bai14.exe
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\bin\Debug\Bai14.pdb
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\obj\Debug\Bai14.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\obj\Debug\Bai14.Form1.resources
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\obj\Debug\Bai14.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\obj\Debug\Bai14.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\obj\Debug\Bai14.exe
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\obj\Debug\Bai14.pdb
+E:\LuuDuLieuSinhVien\PhanQuocKhai_2001200684\Bai14\Bai14\obj\Debug\Bai14.Form2.resources
